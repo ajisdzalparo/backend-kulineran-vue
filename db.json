@@ -1,0 +1,192 @@
+{
+  "best-product": [
+    {
+      "id": "1",
+      "name": "Sate Ayam",
+      "code": "K-01",
+      "price": 16000,
+      "is_ready": true,
+      "image": "sate-ayam.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Bakso Urat",
+      "code": "K-02",
+      "price": 12000,
+      "is_ready": true,
+      "image": "bakso-urat.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Nasi Goreng Spesial",
+      "code": "K-03",
+      "price": 15000,
+      "is_ready": true,
+      "image": "nasi-goreng-spesial.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Kwetiau Goreng",
+      "code": "K-04",
+      "price": 15000,
+      "is_ready": true,
+      "image": "kwetiau-goreng.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Salad Buah",
+      "code": "K-05",
+      "price": 12000,
+      "is_ready": true,
+      "image": "salad-buah.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Ayam Bakar",
+      "code": "K-06",
+      "price": 20000,
+      "is_ready": true,
+      "image": "ayam-bakar.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Empal Gentong",
+      "code": "K-07",
+      "price": 15000,
+      "is_ready": true,
+      "image": "empal-gentong.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Bebek Suwir",
+      "code": "K-08",
+      "price": 15000,
+      "is_ready": true,
+      "image": "bebek-suwir.jpg"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Sate Ayam",
+      "code": "K-01",
+      "price": 16000,
+      "is_ready": true,
+      "image": "sate-ayam.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Bakso Urat",
+      "code": "K-02",
+      "price": 12000,
+      "is_ready": true,
+      "image": "bakso-urat.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Nasi Goreng Spesial",
+      "code": "K-03",
+      "price": 15000,
+      "is_ready": true,
+      "image": "nasi-goreng-spesial.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Kwetiau Goreng",
+      "code": "K-04",
+      "price": 15000,
+      "is_ready": true,
+      "image": "kwetiau-goreng.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Salad Buah",
+      "code": "K-05",
+      "price": 12000,
+      "is_ready": true,
+      "image": "salad-buah.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Ayam Bakar",
+      "code": "K-06",
+      "price": 20000,
+      "is_ready": true,
+      "image": "ayam-bakar.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Empal Gentong",
+      "code": "K-07",
+      "price": 15000,
+      "is_ready": true,
+      "image": "empal-gentong.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Bebek Suwir",
+      "code": "K-08",
+      "price": 15000,
+      "is_ready": true,
+      "image": "bebek-suwir.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Mie Goreng Chicken Katsu",
+      "code": "K-09",
+      "price": 14000,
+      "is_ready": true,
+      "image": "mie-goreng-chicken-katsu.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Chicken Katsu",
+      "code": "K-09",
+      "price": 8000,
+      "is_ready": true,
+      "image": "chicken-katsu.jpg"
+    }
+  ],
+  "carts": [
+    {
+      "id": "dd11",
+      "product": {
+        "id": "5",
+        "name": "Salad Buah",
+        "code": "K-05",
+        "price": 12000,
+        "is_ready": true,
+        "image": "salad-buah.jpg"
+      },
+      "jumlah_pemesanan": "1",
+      "keterangan": "manis"
+    },
+    {
+      "id": "7ef0",
+      "jumlah_pemesanan": "2",
+      "keterangan": "pedas",
+      "product": {
+        "id": "3",
+        "name": "Nasi Goreng Spesial",
+        "code": "K-03",
+        "price": 15000,
+        "is_ready": true,
+        "image": "nasi-goreng-spesial.jpg"
+      }
+    },
+    {
+      "id": "f346",
+      "jumlah_pemesanan": "2",
+      "keterangan": "pedas",
+      "product": {
+        "id": "4",
+        "name": "Kwetiau Goreng",
+        "code": "K-04",
+        "price": 15000,
+        "is_ready": true,
+        "image": "kwetiau-goreng.jpg"
+      }
+    }
+  ],
+  "orders": []
+}
